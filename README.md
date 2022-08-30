@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats-systemback.vercel.app/api/top-langs?username=systemback&show_icons=true&locale=en&layout=compact&count_private=true" alt="systemback" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-systemback.vercel.app/api?username=systemback&show_icons=true&theme=radical&locale=en" alt="systemback" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-systemback.vercel.app/api?username=systemback&show_icons=true&theme=radical&locale=en&count_private=true" alt="systemback" /></p>
