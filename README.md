@@ -23,4 +23,4 @@
 
 ![Eduardo's GitHub stats](https://github-readme-stats-systemback.vercel.app/api?username=systemback&show_icons=true&theme=radical&locale=en&count_private=true&theme=dark)
 
-![Most used languages](https://github-readme-stats-systemback.vercel.app/api/top-langs?username=systemback&show_icons=true&locale=en&&langs_count=10&theme=dark)
+![Most used languages](https://github-readme-stats-systemback.vercel.app/api/top-langs?username=systemback&show_icons=true&locale=en&&langs_count=10)
