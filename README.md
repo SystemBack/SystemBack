@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">I am a backend developer with more than 8 years of experience.</h3>
+<h3 align="center">I am a backend developer with more than 10 years of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=systemback&label=Profile%20views&color=0e75b6&style=flat-square" alt="systemback" /> </p>
 
